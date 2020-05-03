@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+h1{
+    font-size: 25px;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+table{
+    width: 700px;
+    border-color: black;
+    background-color: blueviolet;
+}
+
+td{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+a{
+   
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-decoration: none
+    ;
+
+}
+
+a:hover{
+    color: blue;
+  
+}
